@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "simioplanet.aternos.me",
-    "port": 37072,
-    "version": "1.21.11",
+    "ip": "terrasurvivalsmp.aternos.me",
+    "port": 64509,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
